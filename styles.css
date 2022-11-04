@@ -1,0 +1,15 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td, th{
+    padding: 5px;
+    border: 1px solid black;
+}
+thead {
+    background-color: beige;
+    color: darkblue;
+}
+td:hover {
+    background-color: lightpink;
+}
